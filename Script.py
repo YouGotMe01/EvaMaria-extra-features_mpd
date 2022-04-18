@@ -10,7 +10,7 @@ class script(object):
 <b>✮ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱</b>
 <b>✮ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄</b>
 <b>✮ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: 𝚅1.0.43</b>
-<b>✮ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂: <a href=https://t.me/MoviesWorldUpdatz>ᙢටᏉᓮᙓ wටᖇᒪᖙ ᕰᖰᖙᗩƮᙓᔕ</a></b>]"""
+<b>✮ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂: <a href=https://t.me/MoviesWorldUpdatz>ᙢටᏉᓮᙓ wටᖇᒪᖙ ᕰᖰᖙᗩƮᙓᔕ</a></b>"""
     SOURCE_TXT = """<b>NOTE:</b>
 - ᒎᗩᙅḰ ᔕᖰᗩᖇᖇටw is a open source project. 
 - Source - https://github.com/EvamariaTG/EvaMaria  
@@ -19,7 +19,7 @@ class script(object):
 - <a href=https://t.me/MoviesWorld_Chan_nel>ᙢටᏉᓮᙓ wටᖇᒪᖙ</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
-- Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
+- Filter is the feature were users can set automated replies for a particular keyword and ᒎᗩᙅḰ ᔕᖰᗩᖇᖇටw will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
 1. ᒎᗩᙅḰ ᔕᖰᗩᖇᖇටw should have admin privillage.
