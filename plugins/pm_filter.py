@@ -65,7 +65,6 @@ async def next_page(bot, query):
 
             [
 
-                InlineKeyboardButton(' ᒍOIᑎ Oᑌᖇ ᑕᕼᗩᑎᑎEᒪ ',url='https://t.me/MoviesWorld_Chan_nel'),
 
  InlineKeyboardButton(
 
