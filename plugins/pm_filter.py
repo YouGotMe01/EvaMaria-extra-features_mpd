@@ -843,6 +843,8 @@ async def auto_filter(client, msg, spoll=False):
             [
 
                 InlineKeyboardButton(' ᒍOIᑎ Oᑌᖇ ᑕᕼᗩᑎᑎEᒪ ',url='https://t.me/MoviesWorld_Chan_nel'),
+                [
+                    ]
 
  InlineKeyboardButton(
 
