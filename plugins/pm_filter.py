@@ -433,7 +433,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
             ],[
-            InlineKeyboardButton('✅ SΞΛᏒCH ✅', switch_inline_query_current_chat='')
+            InlineKeyboardButton('✅ SΞARCH HΞRΞ ✅', switch_inline_query_current_chat='')
         ]]
         reply1 = await query.message.reply_text(
             text="▢▢▢"
@@ -838,8 +838,10 @@ async def auto_filter(client, msg, spoll=False):
     pre = 'filep' if settings['file_secure'] else 'file'
     if settings["button"]:
         btn = [
-
+                
             [
+                InlineKeyboardButton(' ᒍOIᑎ Oᑌᖇ ᑕᕼᗩᑎᑎEᒪ ', url = 'https://t.me/MoviesWorld_Chan_nel'),
+],[
 
 
  InlineKeyboardButton(
