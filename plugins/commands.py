@@ -50,7 +50,7 @@ async def start(client, message):
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
             ],[
-            InlineKeyboardButton('✅ SΞΛᏒCH ✅', switch_inline_query_current_chat='')
+            InlineKeyboardButton('✅ SΞARCH HΞRΞ ✅', switch_inline_query_current_chat='')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -75,9 +75,12 @@ async def start(client, message):
         ]
 
         if message.command[1] != "subscribe":
-            kk, file_id = message.command[1].split("_", 1)
-            pre = 'checksubp' if kk == 'filep' else 'checksub' 
-            btn.append([InlineKeyboardButton(" 🔁 𝐓𝐫𝐲 𝐀𝐠𝐚𝐢𝐧 🔁", callback_data=f"{pre}#{file_id}")])
+            try:
+            	kk, file_id = message.command[1].split("_", 1)
+            	pre = 'checksubp' if kk == 'filep' else 'checksub' 
+            	btn.append([InlineKeyboardButton(" 🔁 𝐓𝐫𝐲 𝐀𝐠𝐚𝐢𝐧 🔁", callback_data=f"{pre}#{file_id}")])
+            except IndexError:
+                btn.append([InlineKeyboardButton(" 🔁 𝐓𝐫𝐲 𝐀𝐠𝐚𝐢𝐧 🔁", url=f"https://t.me/{temp.U_NAME}/{message.command[1]}")])
         await client.send_message(
             chat_id=message.from_user.id,
             text="**𝑱𝒐𝒊𝒏 𝑶𝒖𝒓 𝑴𝒐𝒗𝒊𝒆 𝑼𝒑𝒅𝒂𝒕𝒆𝒔 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 𝑻𝒐 𝑼𝒔𝒆 𝑻𝒉𝒊𝒔 𝑩𝒐𝒕!**",
@@ -95,7 +98,7 @@ async def start(client, message):
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
             ],[
-            InlineKeyboardButton('✅ SΞΛᏒCH ✅', switch_inline_query_current_chat='')
+            InlineKeyboardButton('✅ SΞARCH HΞRΞ ✅', switch_inline_query_current_chat='')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
