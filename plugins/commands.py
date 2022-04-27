@@ -44,8 +44,9 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/MoviesWorld_Chan_nel'),
-            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/MoviesWorldUpdatz')
+            InlineKeyboardButton('⭕️ CHΛИИΞL ⭕️', url='https://t.me/MoviesWorld_Chan_nel'),
+            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/MoviesWorldUpdatz'),
+            InlineKeyboardButton('♻️ Ⓖ︎Ⓡ︎Ⓞ︎Ⓤ︎Ⓟ︎ ♻️', url='https://t.me/MoviesWorldchatgroup1')
             ],[      
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
@@ -83,7 +84,11 @@ async def start(client, message):
                 btn.append([InlineKeyboardButton(" 🔁 𝐓𝐫𝐲 𝐀𝐠𝐚𝐢𝐧 🔁", url=f"https://t.me/{temp.U_NAME}/{message.command[1]}")])
         await client.send_message(
             chat_id=message.from_user.id,
-            text="**𝑱𝒐𝒊𝒏 𝑶𝒖𝒓 𝑴𝒐𝒗𝒊𝒆 𝑼𝒑𝒅𝒂𝒕𝒆𝒔 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 𝑻𝒐 𝑼𝒔𝒆 𝑻𝒉𝒊𝒔 𝑩𝒐𝒕!**",
+            text="**🗣 𝐑𝐞𝐚𝐝 & 𝐅𝐨𝐥𝐥𝐨𝐰 𝐈𝐧𝐬𝐭𝐫𝐮𝐜𝐭𝐢𝐨𝐧
+
+Hey👋 നിങ്ങൾ ഗ്രൂപ്പിൽ ചോദിക്കുന്ന സിനിമകൾ ലഭിക്കണം എന്നുണ്ടെങ്കിൽ നിങ്ങൾ താഴെ കൊടുത്തിട്ടുള്ള 🔥 JOIИ CHΛИИΞL 🔥 എന്ന ബട്ടൺ ക്ലിക്ക് ചെയ്ത് ജോയിൻ ചെയ്യണം.ജോയിൻ ചെയിത ശേഷം 🔁 𝐓𝐫𝐲 𝐀𝐠𝐚𝐢𝐧 🔁 എന്ന ബട്ടണിൽ അമർത്തി താഴെ കാണുന്ന Start അമർത്തിയാൽ നിങ്ങൾക്ക് ഞാൻ ആ സിനിമ അയച്ചു തരുന്നതാണ്..!!
+
+Hey👋 If You Want To Get The Movies You Are Asking For in The Group You Have To Join By Clicking On The 🔥 JOIИ CHΛИИΞL 🔥 Button Below. After Joining I Will Send You The Movie By Clicking On The 🔁 𝐓𝐫𝐲 𝐀𝐠𝐚𝐢𝐧 🔁 Button And Then Start .. !!!**",
             reply_markup=InlineKeyboardMarkup(btn),
             parse_mode="markdown"
             )
@@ -92,8 +97,9 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/MoviesWorld_Chan_nel'),
-            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/MoviesWorldUpdatz')
+            InlineKeyboardButton('⭕️ CHΛИИΞL ⭕️', url='https://t.me/MoviesWorld_Chan_nel'),
+            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/MoviesWorldUpdatz'),
+            InlineKeyboardButton('♻️ Ⓖ︎Ⓡ︎Ⓞ︎Ⓤ︎Ⓟ︎ ♻️', url='https://t.me/MoviesWorldchatgroup1')
             ],[      
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
@@ -296,7 +302,7 @@ async def delete(bot, message):
     """Delete file from database"""
     reply = message.reply_to_message
     if reply and reply.media:
-        msg = await message.reply("Processing...⏳", quote=True)
+        msg = await message.reply("𝐇𝐚𝐜𝐤𝐢𝐧𝐠 𝐀𝐥𝐥....⏳", quote=True)
     else:
         await message.reply('Reply to file with /delete which you want to delete', quote=True)
         return
