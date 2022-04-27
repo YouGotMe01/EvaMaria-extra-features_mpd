@@ -4,18 +4,18 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """<b>✮ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}</b>
-<b>✮ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/A4Earner>𝙾𝚆𝙽𝙴𝚁</a></b>
+<b>✮ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/A4Earner>ოტViპႽ wტRlმ</a></b>
 <b>✮ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</b>
 <b>✮ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹</b>
 <b>✮ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱</b>
 <b>✮ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄</b>
 <b>✮ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: 𝚅1.0.43</b>
 <b>✮ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂: <a href=https://t.me/MoviesWorldUpdatz>ᙢටᏉᓮᙓ wටᖇᒪᖙ ᕰᖰᖙᗩƮᙓᔕ</a></b>"""
-    SOURCE_TXT = """<b>NOTE:</b>
-- ᒎᗩᙅḰ ᔕᖰᗩᖇᖇටw is a open source project. 
-- Source - https://github.com/EvamariaTG/EvaMaria  
+    SOURCE_TXT = """<b>DISCLAIMER NOTE‼️:</b>
+- ᒎᗩᙅḰ ᔕᖰᗩᖇᖇටw is an Open Source Project. All the files in this bot are freely available on the internet or posted by somebody else. This bot is indexing files which are already uploaded on Telegram for easy of searching, We respect all the copyright laws and works in compliance with DMCA and EUCD. If anything is against law please contact us so that it can be removed asap. It is forbidden to download, stream, reproduce, or by any means, share, or consume, content without explicit permission from the content creator or legal copyright holder. If you believe this bot is violating your intellectual property, contact the respective channels for removal. The Bot does not own any of these contents, it only index the files from telegram.. 
+- Source - <a href=https://t.me/MoviesWorldchatgroup1>Ʈᙓᗩᙢ ᙢටᏉᓮᙓᔕ wටᖇᒪᖙ</a>  
 
-<b>CHANNEL:</b>
+<b>DEVS:</b>
 - <a href=https://t.me/MoviesWorld_Chan_nel>ᙢටᏉᓮᙓ wටᖇᒪᖙ</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
@@ -99,9 +99,9 @@ This module only works for my admins 🤯
 <b>᚛›✮ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝙱</b>"""
     LOG_TEXT_G = """#𝐍𝐞𝐰𝐆𝐫𝐨𝐮𝐩
     
-<b>᚛› 𝐆𝐫𝐨𝐮𝐩 ⪼ {}(<code>{}</code>)</b>
+<b>᚛› 𝐆𝐫𝐨𝐮𝐩 ⪼  {}(<code>{}</code>)</b>
 <b>᚛› 𝐓𝐨𝐭𝐚𝐥 𝐌𝐞𝐦𝐛𝐞𝐫𝐬 ⪼ <code>{}</code></b>
-<b>᚛› 𝐀𝐝𝐝𝐞𝐝 𝐁𝐲 ⪼ {}</b>
+<b>᚛› 𝐀𝐝𝐝𝐞𝐝 𝐁𝐲 ⪼  {}</b>
 """
     LOG_TEXT_P = """#𝐍𝐞𝐰𝐔𝐬𝐞𝐫
     
