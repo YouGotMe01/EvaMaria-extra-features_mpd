@@ -9,7 +9,7 @@ class script(object):
 <b>✮ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹</b>
 <b>✮ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱</b>
 <b>✮ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄</b>
-<b>✯ 𝚂𝙾𝚄𝚁𝙲𝙴: 👉 
+<b>✮ 𝚂𝙾𝚄𝚁𝙲𝙴: 👉 <a href=https://t.me/kurachkanjiedukkatte/8>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a></b>
 <b>✮ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: 𝚅1.0.43</b>
 <b>✮ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂: <a href=https://t.me/MoviesWorldUpdatz>ᙢටᏉᓮᙓ wටᖇᒪᖙ ᕰᖰᖙᗩƮᙓᔕ</a></b>"""
     SOURCE_TXT = """<b>DISCLAIMER NOTE‼️:</b>
