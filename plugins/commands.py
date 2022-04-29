@@ -45,8 +45,10 @@ async def start(client, message):
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('⭕️ CHΛИИΞL ⭕️', url='https://t.me/MoviesWorld_Chan_nel'),
-            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/MoviesWorldUpdatz'),
-            InlineKeyboardButton('♻️ Ⓖ︎Ⓡ︎Ⓞ︎Ⓤ︎Ⓟ︎ ♻️', url='https://t.me/MoviesWorldchatgroup1')
+            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/MoviesWorldUpdatz')
+            ],[
+            InlineKeyboardButton('Ⓖ︎Ⓡ︎Ⓞ︎Ⓤ︎Ⓟ︎', url='https://t.me/MoviesWorldchatgroup1')
+            InlineKeyboardButton('🄾🅆🄽🄴🅁', url='https://t.me/A4Earner')
             ],[      
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
@@ -94,8 +96,10 @@ async def start(client, message):
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('⭕️ CHΛИИΞL ⭕️', url='https://t.me/MoviesWorld_Chan_nel'),
-            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/MoviesWorldUpdatz'),
-            InlineKeyboardButton('♻️ Ⓖ︎Ⓡ︎Ⓞ︎Ⓤ︎Ⓟ︎ ♻️', url='https://t.me/MoviesWorldchatgroup1')
+            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/MoviesWorldUpdatz')
+            ],[
+            InlineKeyboardButton('Ⓖ︎Ⓡ︎Ⓞ︎Ⓤ︎Ⓟ︎', url='https://t.me/MoviesWorldchatgroup1')
+            InlineKeyboardButton('🄾🅆🄽🄴🅁', url='https://t.me/A4Earner')
             ],[      
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
