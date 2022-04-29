@@ -430,8 +430,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('⭕️ CHΛИИΞL ⭕️', url='https://t.me/MoviesWorld_Chan_nel'),
             InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/MoviesWorldUpdatz')
             ],[
-            InlineKeyboardButton('Ⓖ︎Ⓡ︎Ⓞ︎Ⓤ︎Ⓟ︎', url='https://t.me/MoviesWorldchatgroup1')
-            InlineKeyboardButton('🄾🅆🄽🄴🅁', url='https://t.me/A4Earner'),
+            InlineKeyboardButton('Ⓖ︎Ⓡ︎Ⓞ︎Ⓤ︎Ⓟ︎', url='https://t.me/MoviesWorldchatgroup1'),
+            InlineKeyboardButton('🄾🅆🄽🄴🅁', url='https://t.me/A4Earner')
             ],[      
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
