@@ -8,7 +8,7 @@ class script(object):
 ╔════════❰ ꪖ᥇ꪮꪊ𝓽 ꪑ𝘴ᧁ ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━〔ᒎᗩᙅḰ ᔕᖰᗩᖇᖇටw〕</b>
 ║┃
-║┣⪼ ✯ <b>𝙼𝚈 𝙽𝙰𝙼𝙴: <a href=https://t.me/{}>{}</a></b>
+║┣⪼ ✯ <b>𝙼𝚈 𝙽𝙰𝙼𝙴: {}</b>
 ║┣⪼ ✯ <b>𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/A4Earner>ოტViპႽ wტRlმ</a></b>
 ║┣⪼ ✯ <b>𝙻𝙸𝙱𝚁𝙰𝚁𝚈: <a href=https://t.me/docs.pyrogram.org>𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a></b>
 ║┣⪼ ✯ <b>𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: <a herf=https://t.me/www.python.org>𝙿𝚈𝚃𝙷𝙾𝙽 𝟹</a></b>
