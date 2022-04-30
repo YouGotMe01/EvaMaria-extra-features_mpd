@@ -9,10 +9,10 @@ class script(object):
 ║╭━━━━━━━━━━━━━━━➣</b>
 ║┣⪼ ✯ <b>𝙼𝚈 𝙽𝙰𝙼𝙴: {}</b>
 ║┣⪼ ✯ <b>𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/A4Earner>ოტViპႽ wტRlმ</a></b>
-║┣⪼ ✯ <b>𝙻𝙸𝙱𝚁𝙰𝚁𝚈: <a href=https://t.me/docs.pyrogram.org/>𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a></b>
-║┣⪼ ✯ <b>𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: <a herf=https://t.me/www.python.org/>𝙿𝚈𝚃𝙷𝙾𝙽 𝟹</a></b>
-║┣⪼ ✯ <b>𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: <a herf=https://t.me/cloud.mongodb.com/>𝙼𝙾𝙽𝙶𝙾-𝙳𝙱</a></b>
-║┣⪼ ✯ <b>𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: <a herf=https://t.me/https://heroku.com/>𝙷𝙴𝚁𝙾𝙺𝚄</a></b>
+║┣⪼ ✯ <b>𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a></b>
+║┣⪼ ✯ <b>𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹</a></b>
+║┣⪼ ✯ <b>𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱</a></b>
+║┣⪼ ✯ <b>𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄</a></b>
 ║┣⪼ ✯ <b>𝚂𝙾𝚄𝚁𝙲𝙴: 👉 <a href=https://t.me/kurachkanjiedukkatte/8>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a></b>
 ║┣⪼ ✯ <b>𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: 𝚅1.0.43</b>
 ║┣⪼ ✯ <b>𝚄𝙿𝙳𝙰𝚃𝙴𝚂: <a href=https://t.me/MoviesWorldUpdatz>ᗰᗯ ᑌᑭᗪᗩƬᘔ</a></b>
