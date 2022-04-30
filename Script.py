@@ -8,7 +8,7 @@ class script(object):
 ╔════════❰ ꪖ᥇ꪮꪊ𝓽 ꪑ𝘴ᧁ ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━〔ᒎᗩᙅḰ ᔕᖰᗩᖇᖇටw〕</b>
 ║┃
-║┣⪼ ✯ <b>𝙼𝚈 𝙽𝙰𝙼𝙴: <a href=https://t.me/{}>{}</a>
+║┣⪼ ✯ <b>𝙼𝚈 𝙽𝙰𝙼𝙴: <a href=https://t.me/{}>{}</a></b>
 ║┣⪼ ✯ <b>𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/A4Earner>ოტViპႽ wტRlმ</a></b>
 ║┣⪼ ✯ <b>𝙻𝙸𝙱𝚁𝙰𝚁𝚈: <a href=https://t.me/docs.pyrogram.org>𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a></b>
 ║┣⪼ ✯ <b>𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: <a herf=https://t.me/www.python.org>𝙿𝚈𝚃𝙷𝙾𝙽 𝟹</a></b>
@@ -19,7 +19,7 @@ class script(object):
 ║┣⪼ ✯ <b>𝚄𝙿𝙳𝙰𝚃𝙴𝚂: <a href=https://t.me/MoviesWorldUpdatz>ᙢටᏉᓮᙓ wටᖇᒪᖙ ᕰᖰᖙᗩƮᙓᔕ</a></b>
 ║┃
 ║<b>╰━━━━━━━〔<a href=https://t.me/MoviesWorld_Chan_nel>ᙢටᏉᓮᙓ wටᖇᒪᖙ</a>〕</b>
-📜 𝚀𝚞𝚘𝚝𝚎 : ആരും പേടിക്കണ്ട എല്ലാവർക്കും കിട്ടും™️"""
+📜 𝚀𝚞𝚘𝚝𝚎 : ആരും പേടിക്കണ്ട എല്ലാവർക്കും കിട്ടും™️ """
     SOURCE_TXT = """<b>DISCLAIMER NOTE‼️:</b>
 - ᒎᗩᙅḰ ᔕᖰᗩᖇᖇටw is an Open Source Project. All the files in this bot are freely available on the internet or posted by somebody else. This bot is indexing files which are already uploaded on Telegram for easy of searching, We respect all the copyright laws and works in compliance with DMCA and EUCD. If anything is against law please contact us so that it can be removed asap. It is forbidden to download, stream, reproduce, or by any means, share, or consume, content without explicit permission from the content creator or legal copyright holder. If you believe this bot is violating your intellectual property, contact the respective channels for removal. The Bot does not own any of these contents, it only index the files from telegram.. 
 - Source - <a href=https://t.me/MoviesWorldchatgroup1>Ʈᙓᗩᙢ ᙢටᏉᓮᙓᔕ wටᖇᒪᖙ</a>  
