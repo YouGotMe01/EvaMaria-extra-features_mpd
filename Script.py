@@ -8,22 +8,22 @@ class script(object):
 ╔════════❰ ꪖ᥇ꪮꪊ𝓽 ꪑ𝘴ᧁ ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣</b>
 ║┣⪼ ✯ <b>𝙼𝚈 𝙽𝙰𝙼𝙴: {}</b>
-║┣⪼ ✯ <b>𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/A4Earner>ოტViპႽ wტRlმ</a></b>
+║┣⪼ ✯ <b>𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/ownerzzzz>ME</a></b>
 ║┣⪼ ✯ <b>𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a></b>
 ║┣⪼ ✯ <b>𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹</a></b>
 ║┣⪼ ✯ <b>𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱</a></b>
 ║┣⪼ ✯ <b>𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄</a></b>
 ║┣⪼ ✯ <b>𝚂𝙾𝚄𝚁𝙲𝙴: 👉 <a href=https://t.me/kurachkanjiedukkatte/8>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a></b>
 ║┣⪼ ✯ <b>𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: 𝚅1.0.43</b>
-║┣⪼ ✯ <b>𝚄𝙿𝙳𝙰𝚃𝙴𝚂: <a href=https://t.me/MoviesWorldUpdatz>ᗰᗯ ᑌᑭᗪᗩƬᘔ</a></b>
-║╰━━━━━━━〔<a href=https://t.me/MoviesWorld_Chan_nel>ᙢටᏉᓮᙓ wටᖇᒪᖙ</a>〕</b>
+║┣⪼ ✯ <b>𝚄𝙿𝙳𝙰𝚃𝙴𝚂: <a href=https://t.me/+hpnKBqJC_cQ3ZjU1>ᗰᗯ ᑌᑭᗪᗩƬᘔ</a></b>
+║╰━━━━━━━〔<a href=https://t.me/+hpnKBqJC_cQ3ZjU1>movie company</a>〕</b>
 📜 𝚀𝚞𝚘𝚝𝚎 : ആരും പേടിക്കണ്ട എല്ലാവർക്കും കിട്ടും™️ """
     SOURCE_TXT = """<b>DISCLAIMER NOTE‼️:</b>
 - ᒎᗩᙅḰ ᔕᖰᗩᖇᖇටw 𝚒𝚜 𝚊𝚗 𝙾𝚙𝚎𝚗 𝚂𝚘𝚞𝚛𝚌𝚎 𝙿𝚛𝚘𝚓𝚎𝚌𝚝. All the files in this bot are freely available on the internet or posted by somebody else. This bot is indexing files which are already uploaded on Telegram for easy of searching, We respect all the copyright laws and works in compliance with DMCA and EUCD. If anything is against law please contact us so that it can be removed asap. It is forbidden to download, stream, reproduce, or by any means, share, or consume, content without explicit permission from the content creator or legal copyright holder. If you believe this bot is violating your intellectual property, contact the respective channels for removal. The Bot does not own any of these contents, it only index the files from telegram.. 
-- Source - <a href=https://t.me/MoviesWorldchatgroup1>Ʈᙓᗩᙢ ᙢටᏉᓮᙓᔕ wටᖇᒪᖙ</a>  
+- Source - <a href=https://t.me/+hpnKBqJC_cQ3ZjU1>Team movie company</a>  
 
 <b>DEVS:</b>
-- <a href=https://t.me/MoviesWorld_Chan_nel>ᙢටᏉᓮᙓ wටᖇᒪᖙ</a>"""
+- <a href=https://t.me/+hpnKBqJC_cQ3ZjU1>movie company</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and ᒎᗩᙅḰ ᔕᖰᗩᖇᖇටw will respond whenever a keyword is found the message
