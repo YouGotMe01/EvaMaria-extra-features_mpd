@@ -19,17 +19,17 @@ class script(object):
 ║╰━━━━━━━〔<a href=https://t.me/+hpnKBqJC_cQ3ZjU1>movie company</a>〕</b>
 📜 𝚀𝚞𝚘𝚝𝚎 : ആരും പേടിക്കണ്ട എല്ലാവർക്കും കിട്ടും™️ """
     SOURCE_TXT = """<b>DISCLAIMER NOTE‼️:</b>
-- ᒎᗩᙅḰ ᔕᖰᗩᖇᖇටw 𝚒𝚜 𝚊𝚗 𝙾𝚙𝚎𝚗 𝚂𝚘𝚞𝚛𝚌𝚎 𝙿𝚛𝚘𝚓𝚎𝚌𝚝. All the files in this bot are freely available on the internet or posted by somebody else. This bot is indexing files which are already uploaded on Telegram for easy of searching, We respect all the copyright laws and works in compliance with DMCA and EUCD. If anything is against law please contact us so that it can be removed asap. It is forbidden to download, stream, reproduce, or by any means, share, or consume, content without explicit permission from the content creator or legal copyright holder. If you believe this bot is violating your intellectual property, contact the respective channels for removal. The Bot does not own any of these contents, it only index the files from telegram.. 
+- മിന്നൽ മുരളി (ഒറിജിനൽ) 𝚒𝚜 𝚊𝚗 𝙾𝚙𝚎𝚗 𝚂𝚘𝚞𝚛𝚌𝚎 𝙿𝚛𝚘𝚓𝚎𝚌𝚝. All the files in this bot are freely available on the internet or posted by somebody else. This bot is indexing files which are already uploaded on Telegram for easy of searching, We respect all the copyright laws and works in compliance with DMCA and EUCD. If anything is against law please contact us so that it can be removed asap. It is forbidden to download, stream, reproduce, or by any means, share, or consume, content without explicit permission from the content creator or legal copyright holder. If you believe this bot is violating your intellectual property, contact the respective channels for removal. The Bot does not own any of these contents, it only index the files from telegram.. 
 - Source - <a href=https://t.me/+hpnKBqJC_cQ3ZjU1>Team movie company</a>  
 
 <b>DEVS:</b>
 - <a href=https://t.me/+hpnKBqJC_cQ3ZjU1>movie company</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
-- Filter is the feature were users can set automated replies for a particular keyword and ᒎᗩᙅḰ ᔕᖰᗩᖇᖇටw will respond whenever a keyword is found the message
+- Filter is the feature were users can set automated replies for a particular keyword and മിന്നൽ മുരളി (ഒറിജിനൽ) will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. ᒎᗩᙅḰ ᔕᖰᗩᖇᖇටw should have admin privillage.
+1. മിന്നൽ മുരളി (ഒറിജിനൽ) should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
@@ -40,7 +40,7 @@ class script(object):
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- ᒎᗩᙅḰ ᔕᖰᗩᖇᖇටw Supports both url and alert inline buttons.
+- മിന്നൽ മുരളി (ഒറിജിനൽ) Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
