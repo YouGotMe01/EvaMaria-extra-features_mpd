@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/MoviesWorldUpdatz')
+                InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/+hpnKBqJC_cQ3ZjU1')
             ],
             [
                 InlineKeyboardButton('♻️ HΞLᎮ ♻️', url=f"https://t.me/{temp.U_NAME}?start=help"),
@@ -44,11 +44,11 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('⭕️ CHΛИИΞL ⭕️', url='https://t.me/MoviesWorld_Chan_nel'),
-            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/MoviesWorldUpdatz')
+            InlineKeyboardButton('⭕️ CHΛИИΞL ⭕️', url='https://t.me/+hpnKBqJC_cQ3ZjU1'),
+            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/+hpnKBqJC_cQ3ZjU1')
             ],[
-            InlineKeyboardButton('Ⓖ︎Ⓡ︎Ⓞ︎Ⓤ︎Ⓟ︎', url='https://t.me/MoviesWorldchatgroup1'),
-            InlineKeyboardButton('🄾🅆🄽🄴🅁', url='https://t.me/A4Earner')
+            InlineKeyboardButton('Ⓖ︎Ⓡ︎Ⓞ︎Ⓤ︎Ⓟ︎', url='https://t.me/+JLuNC2rGfgQ0OGRl'),
+            InlineKeyboardButton('🄾🅆🄽🄴🅁', url='https://t.me/Eldho123')
             ],[      
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
@@ -95,11 +95,11 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('⭕️ CHΛИИΞL ⭕️', url='https://t.me/MoviesWorld_Chan_nel'),
-            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/MoviesWorldUpdatz')
+            InlineKeyboardButton('⭕️ CHΛИИΞL ⭕️', url='https://t.me/+hpnKBqJC_cQ3ZjU1'),
+            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/+hpnKBqJC_cQ3ZjU1')
             ],[
-            InlineKeyboardButton('Ⓖ︎Ⓡ︎Ⓞ︎Ⓤ︎Ⓟ︎', url='https://t.me/MoviesWorldchatgroup1'),
-            InlineKeyboardButton('🄾🅆🄽🄴🅁', url='https://t.me/A4Earner')
+            InlineKeyboardButton('Ⓖ︎Ⓡ︎Ⓞ︎Ⓤ︎Ⓟ︎', url='https://t.me/+JLuNC2rGfgQ0OGRl'),
+            InlineKeyboardButton('🄾🅆🄽🄴🅁', url='https://t.me/Eldho123')
             ],[      
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
