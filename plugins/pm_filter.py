@@ -858,7 +858,7 @@ async def advantage_spell_chok(msg):
         )
     ] for k, movie in enumerate(movielist)]
     btn.append([InlineKeyboardButton(text="Close", callback_data=f'spolling#{user}#close_spellcheck')])
-    await msg.reply("Bro, Check Movie Name In #Google and Try ! Still No Results, Add Movie Year and Try., Again No Results ? It's Not Available In Our Database Or Movie Not Released !
+    await msg.reply("Bro Check Movie Name In #Google and Try ! Still No Results, Add Movie Year and Try., Again No Results ? It's Not Available In Our Database Or Movie Not Released !
 
 ബ്രോ, മൂവിയുടെ പേര് മാത്രം #Google നോക്കിയിട്ട് ഒന്ന് കൂടെ അടിച്ചു നോക്ക്..!!
 
