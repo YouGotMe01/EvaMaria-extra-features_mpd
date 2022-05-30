@@ -868,7 +868,7 @@ async def advantage_spell_chok(msg):
                     callback_data=f"spolling#{user}#{k}",
                 )
             ] for k, movie in enumerate(movielist)]
-    btn.append([InlineKeyboardButton("🔍ɢᴏᴏɢʟᴇ🔎", url=f'https://google.com/search?q={query}')]
+    btn.insert(0[InlineKeyboardButton("🔍ɢᴏᴏɢʟᴇ🔎", url=f'https://google.com/search?q={query}')]
     await msg.reply("𝙲𝙷𝙴𝙲𝙺 𝚈𝙾𝚄𝚁 𝙼𝙾𝚅𝙸𝙴 𝙾𝙽 𝚃𝙷𝙴 𝙶𝙸𝚅𝙴𝙽 𝙻𝙸𝚂𝚃 𝙰𝙽𝙳 𝚂𝙴𝙻𝙴𝙲𝚃 𝚈𝙾𝚄𝚁 𝙼𝙾𝚅𝙸𝙴𝚂.📌", reply_markup=InlineKeyboardMarkup(btn))
 
 
