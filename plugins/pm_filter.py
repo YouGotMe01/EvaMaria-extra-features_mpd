@@ -848,7 +848,9 @@ async def advantage_spell_chok(msg):
         await asyncio.sleep(8)
         await k.delete()
         return
-    SPELL_CHECK[msg.message_id]
+    SPELL_CHECK[msg.message_id] = movielist
+    btn = 
+         for k, movie in enumerate(movielist)]
     btn.append([InlineKeyboardButton(text="Close", url='https://t.me/+JLuNC2rGfgQ0OGRl')])
     await msg.reply("Bro/sis, Check Movie Name In #Google and Try Again ! Still No Results, It's Not Available In Our Database, We will try to upload soon Or Movie's Masterprint Not Released ! സോദരാ/സോദരീ, മൂവിയുടെ പേര് മാത്രം #Google നോക്കിയിട്ട് ഒന്ന് കൂടെ അടിച്ചു നോക്ക്..!! എന്നിട്ടും കിട്ടിയില്ലെങ്കിൽ ആ മൂവി ഞങ്ങളുടെ ഡാറ്റാബേസിൽ ഇല്ല, എത്രയും വേഗം അപ്‌ലോഡ് ചെയ്യാൻ ശ്രമിക്കാം അല്ലെങ്കിൽ ആ മൂവിയുടെ മാസ്റ്റർപ്രിന്റ് ഇറങ്ങിയിട്ടില്ല എന്ന് മനസ്സിലാക്കുക! 🤗", reply_markup=InlineKeyboardMarkup(btn))
     
