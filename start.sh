@@ -1,7 +1,7 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/YouGotMe01/EvaMaria-extra-features_mpd.git /PiroAutoFilterBot
+  git clone https://github.com/Ghostop02/EvaMaria-extra-features_mpd.git /PiroAutoFilterBot
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
   git clone $UPSTREAM_REPO /PiroAutoFilterBot
